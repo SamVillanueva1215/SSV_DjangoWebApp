@@ -130,3 +130,4 @@ MAILERS = {
 
 LOGIN_REDIRECT_URL = '/registration/'
 LOGOUT_REDIRECT_URL = '/accounts/login/'
+STATIC_URL = 'static/'
